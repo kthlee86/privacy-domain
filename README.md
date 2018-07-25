@@ -70,3 +70,5 @@ Step.8 Generate Traffic
 				- 64B, 128B, 256B, 512B, 1024B, 1456B, iMIX (7 64B frames, 4 596B frames, 1 1456B frames)
 				- Note that we cannot use 1518B (i.e., max-size) frames, due to packet encapsulation.
 		- Note that generated packets must be sent to the "Protected ports." See DPDK documentation for the ipsec application for more information about "Protected Ports" (https://doc.dpdk.org/guides-17.02/sample_app_ug/ipsec_secgw.html)
+
+[1] Taeho Lee, Christos Pappas, Adrian Perrig, "Boostrapping Privacy Services in Today's Internet," 2018.
