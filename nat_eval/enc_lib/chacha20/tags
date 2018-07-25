@@ -1,0 +1,202 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALIGN	./ecrypt-portable.h	305;"	d
+AT_LEAST_ONE	./ecrypt-portable.h	303;"	d
+ECRYPT_API	./ecrypt-sync.h	2;"	d
+ECRYPT_BIG_ENDIAN	./ecrypt-config.h	36;"	d
+ECRYPT_BIG_ENDIAN	./ecrypt-config.h	38;"	d
+ECRYPT_BIG_ENDIAN	./ecrypt-config.h	40;"	d
+ECRYPT_BIG_ENDIAN	./ecrypt-config.h	42;"	d
+ECRYPT_BLOCKLENGTH	./ecrypt-sync.h	213;"	d
+ECRYPT_CONFIG	./ecrypt-config.h	6;"	d
+ECRYPT_DEFAULT_BTOW	./ecrypt-portable.h	157;"	d
+ECRYPT_DEFAULT_ROT	./ecrypt-portable.h	79;"	d
+ECRYPT_DEFAULT_SWAP	./ecrypt-portable.h	106;"	d
+ECRYPT_DEFAULT_WTOW	./ecrypt-portable.h	128;"	d
+ECRYPT_GENERATES_KEYSTREAM	./ecrypt-sync.h	161;"	d
+ECRYPT_I8T_IS_BYTE	./ecrypt-config.h	117;"	d
+ECRYPT_I8T_IS_BYTE	./ecrypt-config.h	154;"	d
+ECRYPT_I8T_IS_BYTE	./ecrypt-config.h	191;"	d
+ECRYPT_I8T_IS_BYTE	./ecrypt-config.h	230;"	d
+ECRYPT_I8T_IS_BYTE	./ecrypt-config.h	80;"	d
+ECRYPT_IVSIZE	./ecrypt-sync.h	46;"	d
+ECRYPT_KEYSIZE	./ecrypt-sync.h	43;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	16;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	18;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	20;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	22;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	24;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	26;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	28;"	d
+ECRYPT_LITTLE_ENDIAN	./ecrypt-config.h	30;"	d
+ECRYPT_MACHINE_ROT	./ecrypt-machine.h	14;"	d
+ECRYPT_MACHINE_SWAP	./ecrypt-machine.h	41;"	d
+ECRYPT_MAXIVSIZE	./ecrypt-sync.h	45;"	d
+ECRYPT_MAXKEYSIZE	./ecrypt-sync.h	42;"	d
+ECRYPT_MAXVARIANT	./ecrypt-sync.h	269;"	d
+ECRYPT_NAME	./ecrypt-sync.h	24;"	d
+ECRYPT_NATIVE64	./ecrypt-config.h	101;"	d
+ECRYPT_NATIVE64	./ecrypt-config.h	138;"	d
+ECRYPT_NATIVE64	./ecrypt-config.h	175;"	d
+ECRYPT_NATIVE64	./ecrypt-config.h	212;"	d
+ECRYPT_PORTABLE	./ecrypt-portable.h	21;"	d
+ECRYPT_PROFILE	./ecrypt-sync.h	25;"	d
+ECRYPT_SYNC	./ecrypt-sync.h	13;"	d
+ECRYPT_UNKNOWN	./ecrypt-config.h	48;"	d
+ECRYPT_UNKNOWN	./ecrypt-config.h	50;"	d
+ECRYPT_UNKNOWN	./ecrypt-config.h	52;"	d
+ECRYPT_UNKNOWN	./ecrypt-config.h	54;"	d
+ECRYPT_UNKNOWN	./ecrypt-config.h	56;"	d
+ECRYPT_USES_DEFAULT_ALL_IN_ONE	./ecrypt-sync.h	188;"	d
+ECRYPT_USES_DEFAULT_BLOCK_MACROS	./ecrypt-sync.h	215;"	d
+ECRYPT_VARIANT	./ecrypt-sync.h	1;"	d
+ECRYPT_VARIANT	./ecrypt-sync.h	272;"	d
+ECRYPT_ctx	./ecrypt-sync.h	/^} ECRYPT_ctx;$/;"	t	typeref:struct:__anon1
+ECRYPT_decrypt_blocks	./ecrypt-sync.h	222;"	d
+ECRYPT_decrypt_bytes	./chacha.c	/^void ECRYPT_decrypt_bytes(ECRYPT_ctx *x,const u8 *c,u8 *m,u32 bytes)$/;"	f
+ECRYPT_encrypt_blocks	./ecrypt-sync.h	218;"	d
+ECRYPT_encrypt_bytes	./chacha.c	/^void ECRYPT_encrypt_bytes(ECRYPT_ctx *x,const u8 *m,u8 *c,u32 bytes)$/;"	f
+ECRYPT_init	./chacha.c	/^void ECRYPT_init(void)$/;"	f
+ECRYPT_ivsetup	./chacha.c	/^void ECRYPT_ivsetup(ECRYPT_ctx *x,const u8 *iv)$/;"	f
+ECRYPT_keysetup	./chacha.c	/^void ECRYPT_keysetup(ECRYPT_ctx *x,const u8 *k,u32 kbits,u32 ivbits)$/;"	f
+ECRYPT_keystream_blocks	./ecrypt-sync.h	228;"	d
+ECRYPT_keystream_bytes	./chacha.c	/^void ECRYPT_keystream_bytes(ECRYPT_ctx *x,u8 *stream,u32 bytes)$/;"	f
+I16T	./ecrypt-config.h	124;"	d
+I16T	./ecrypt-config.h	161;"	d
+I16T	./ecrypt-config.h	198;"	d
+I16T	./ecrypt-config.h	237;"	d
+I16T	./ecrypt-config.h	278;"	d
+I16T	./ecrypt-config.h	87;"	d
+I32T	./ecrypt-config.h	130;"	d
+I32T	./ecrypt-config.h	167;"	d
+I32T	./ecrypt-config.h	204;"	d
+I32T	./ecrypt-config.h	243;"	d
+I32T	./ecrypt-config.h	282;"	d
+I32T	./ecrypt-config.h	93;"	d
+I64T	./ecrypt-config.h	136;"	d
+I64T	./ecrypt-config.h	173;"	d
+I64T	./ecrypt-config.h	210;"	d
+I64T	./ecrypt-config.h	249;"	d
+I64T	./ecrypt-config.h	265;"	d
+I64T	./ecrypt-config.h	286;"	d
+I64T	./ecrypt-config.h	99;"	d
+I8T	./ecrypt-config.h	113;"	d
+I8T	./ecrypt-config.h	150;"	d
+I8T	./ecrypt-config.h	187;"	d
+I8T	./ecrypt-config.h	226;"	d
+I8T	./ecrypt-config.h	274;"	d
+I8T	./ecrypt-config.h	76;"	d
+MAXT	./ecrypt-config.h	297;"	d
+MAXT	./ecrypt-config.h	302;"	d
+MAXT	./ecrypt-config.h	306;"	d
+MAXT	./ecrypt-config.h	310;"	d
+PLUS	./chacha.c	11;"	d	file:
+PLUSONE	./chacha.c	12;"	d	file:
+QUARTERROUND	./chacha.c	14;"	d	file:
+ROTATE	./chacha.c	9;"	d	file:
+ROTL16	./ecrypt-portable.h	84;"	d
+ROTL32	./ecrypt-machine.h	18;"	d
+ROTL32	./ecrypt-machine.h	28;"	d
+ROTL32	./ecrypt-portable.h	87;"	d
+ROTL64	./ecrypt-machine.h	20;"	d
+ROTL64	./ecrypt-machine.h	30;"	d
+ROTL64	./ecrypt-portable.h	90;"	d
+ROTL8	./ecrypt-portable.h	81;"	d
+ROTR16	./ecrypt-portable.h	94;"	d
+ROTR32	./ecrypt-machine.h	19;"	d
+ROTR32	./ecrypt-machine.h	29;"	d
+ROTR32	./ecrypt-portable.h	95;"	d
+ROTR64	./ecrypt-machine.h	21;"	d
+ROTR64	./ecrypt-machine.h	31;"	d
+ROTR64	./ecrypt-portable.h	96;"	d
+ROTR8	./ecrypt-portable.h	93;"	d
+SWAP16	./ecrypt-portable.h	108;"	d
+SWAP32	./ecrypt-portable.h	111;"	d
+SWAP64	./ecrypt-portable.h	116;"	d
+SWAP64	./ecrypt-portable.h	122;"	d
+U16C	./ecrypt-config.h	125;"	d
+U16C	./ecrypt-config.h	162;"	d
+U16C	./ecrypt-config.h	199;"	d
+U16C	./ecrypt-config.h	238;"	d
+U16C	./ecrypt-config.h	279;"	d
+U16C	./ecrypt-config.h	88;"	d
+U16TO16_BIG	./ecrypt-portable.h	135;"	d
+U16TO16_BIG	./ecrypt-portable.h	145;"	d
+U16TO16_LITTLE	./ecrypt-portable.h	131;"	d
+U16TO16_LITTLE	./ecrypt-portable.h	141;"	d
+U16TO8_BIG	./ecrypt-portable.h	173;"	d
+U16TO8_BIG	./ecrypt-portable.h	263;"	d
+U16TO8_LITTLE	./ecrypt-portable.h	169;"	d
+U16TO8_LITTLE	./ecrypt-portable.h	229;"	d
+U16V	./ecrypt-portable.h	68;"	d
+U32C	./ecrypt-config.h	131;"	d
+U32C	./ecrypt-config.h	168;"	d
+U32C	./ecrypt-config.h	205;"	d
+U32C	./ecrypt-config.h	244;"	d
+U32C	./ecrypt-config.h	283;"	d
+U32C	./ecrypt-config.h	94;"	d
+U32TO32_BIG	./ecrypt-portable.h	136;"	d
+U32TO32_BIG	./ecrypt-portable.h	146;"	d
+U32TO32_LITTLE	./ecrypt-portable.h	132;"	d
+U32TO32_LITTLE	./ecrypt-portable.h	142;"	d
+U32TO8_BIG	./ecrypt-portable.h	174;"	d
+U32TO8_BIG	./ecrypt-portable.h	269;"	d
+U32TO8_LITTLE	./ecrypt-portable.h	170;"	d
+U32TO8_LITTLE	./ecrypt-portable.h	235;"	d
+U32V	./ecrypt-portable.h	69;"	d
+U64C	./ecrypt-config.h	100;"	d
+U64C	./ecrypt-config.h	137;"	d
+U64C	./ecrypt-config.h	174;"	d
+U64C	./ecrypt-config.h	211;"	d
+U64C	./ecrypt-config.h	250;"	d
+U64C	./ecrypt-config.h	266;"	d
+U64C	./ecrypt-config.h	287;"	d
+U64TO64_BIG	./ecrypt-portable.h	137;"	d
+U64TO64_BIG	./ecrypt-portable.h	147;"	d
+U64TO64_LITTLE	./ecrypt-portable.h	133;"	d
+U64TO64_LITTLE	./ecrypt-portable.h	143;"	d
+U64TO8_BIG	./ecrypt-portable.h	175;"	d
+U64TO8_BIG	./ecrypt-portable.h	278;"	d
+U64TO8_BIG	./ecrypt-portable.h	290;"	d
+U64TO8_LITTLE	./ecrypt-portable.h	171;"	d
+U64TO8_LITTLE	./ecrypt-portable.h	244;"	d
+U64TO8_LITTLE	./ecrypt-portable.h	256;"	d
+U64V	./ecrypt-portable.h	70;"	d
+U8C	./ecrypt-config.h	114;"	d
+U8C	./ecrypt-config.h	151;"	d
+U8C	./ecrypt-config.h	188;"	d
+U8C	./ecrypt-config.h	227;"	d
+U8C	./ecrypt-config.h	275;"	d
+U8C	./ecrypt-config.h	77;"	d
+U8TO16_BIG	./ecrypt-portable.h	165;"	d
+U8TO16_BIG	./ecrypt-portable.h	204;"	d
+U8TO16_LITTLE	./ecrypt-portable.h	161;"	d
+U8TO16_LITTLE	./ecrypt-portable.h	179;"	d
+U8TO32_BIG	./ecrypt-portable.h	166;"	d
+U8TO32_BIG	./ecrypt-portable.h	208;"	d
+U8TO32_LITTLE	./ecrypt-portable.h	162;"	d
+U8TO32_LITTLE	./ecrypt-portable.h	183;"	d
+U8TO64_BIG	./ecrypt-portable.h	167;"	d
+U8TO64_BIG	./ecrypt-portable.h	215;"	d
+U8TO64_BIG	./ecrypt-portable.h	225;"	d
+U8TO64_LITTLE	./ecrypt-portable.h	163;"	d
+U8TO64_LITTLE	./ecrypt-portable.h	190;"	d
+U8TO64_LITTLE	./ecrypt-portable.h	200;"	d
+U8V	./ecrypt-portable.h	67;"	d
+XOR	./chacha.c	10;"	d	file:
+input	./ecrypt-sync.h	/^  u32 input[16]; \/* could be compressed *\/$/;"	m	struct:__anon1
+s16	./ecrypt-portable.h	/^typedef signed I16T s16;$/;"	t
+s32	./ecrypt-portable.h	/^typedef signed I32T s32;$/;"	t
+s64	./ecrypt-portable.h	/^typedef signed I64T s64;$/;"	t
+s8	./ecrypt-portable.h	/^typedef signed I8T s8;$/;"	t
+salsa20_wordtobyte	./chacha.c	/^static void salsa20_wordtobyte(u8 output[64],const u32 input[16])$/;"	f	file:
+sigma	./chacha.c	/^static const char sigma[16] = "expand 32-byte k";$/;"	v	file:
+tau	./chacha.c	/^static const char tau[16] = "expand 16-byte k";$/;"	v	file:
+u16	./ecrypt-portable.h	/^typedef unsigned I16T u16;$/;"	t
+u32	./ecrypt-portable.h	/^typedef unsigned I32T u32;$/;"	t
+u64	./ecrypt-portable.h	/^typedef unsigned I64T u64;$/;"	t
+u8	./ecrypt-portable.h	/^typedef unsigned I8T u8;$/;"	t

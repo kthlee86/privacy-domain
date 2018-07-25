@@ -1,0 +1,5 @@
+./chacha.c
+./ecrypt-config.h
+./ecrypt-machine.h
+./ecrypt-portable.h
+./ecrypt-sync.h
